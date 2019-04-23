@@ -1,0 +1,8 @@
+print 3;
+print 3;
+print 3;
+
+println "";
+
+println 2+2;
+println "hello" + " " + "world";

@@ -1,0 +1,11 @@
+int x;
+int y;
+int z;
+
+set x 2;
+set y x*x/x;
+set z x/x*x;
+
+println x;
+println y;
+println z;

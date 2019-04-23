@@ -1,0 +1,6 @@
+string long;
+
+set long "long long time ago";
+println long/"long ";
+println long/"long "/"long ";
+println long/"long "/"long "/"long ";

@@ -1,0 +1,18 @@
+string a;
+
+set a "Land ";
+
+string land;
+
+set land "Of The Lost";
+println a + land;
+
+set land "Before Time";
+println a + land;
+
+set land "Of My Father's Pride";
+println a + land;
+
+set land "Of Hobbits and Elves";
+println a + land;
+

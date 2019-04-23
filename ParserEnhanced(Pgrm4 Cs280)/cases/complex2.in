@@ -1,0 +1,16 @@
+string x;
+string mm;
+
+set x "demonstration";
+println x;
+println "* "*4;
+set x x/"a"/"e"/"i"/"o"/"u";
+println x;
+set x x/"a"/"e"/"i"/"o"/"u";
+println x;
+set x x/"a"/"e"/"i"/"o"/"u";
+println x;
+set x x/"a"/"e"/"i"/"o"/"u";
+println x;
+
+println "And sometimes y!";

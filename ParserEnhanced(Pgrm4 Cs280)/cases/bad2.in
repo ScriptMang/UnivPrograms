@@ -1,0 +1,5 @@
+string abc;
+int xyz;
+
+set abc 7;
+set xyz "help";

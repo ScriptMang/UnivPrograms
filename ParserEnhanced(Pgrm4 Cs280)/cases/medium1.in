@@ -1,0 +1,7 @@
+string aretha;
+string prefix;
+
+set aretha "Respect";
+set prefix aretha/"spect";
+
+println prefix*8 + " just a little bit";
